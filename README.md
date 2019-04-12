@@ -1,3 +1,11 @@
+How to Load Large Datasets From Directories for Deep Learning with Keras
+
+https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/
+
+Lesson 02: Preparing Image Data
+https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-computer-vision-7-day-mini-course/
+
+
 # ImageEncryption
 Image encryption
 
