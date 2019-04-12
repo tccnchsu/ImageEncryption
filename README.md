@@ -1,3 +1,6 @@
+Step by Step, A Tutorial on How to Feed Your Own Image Data to Tensorflow
+http://yeephycho.github.io/2016/08/15/image-data-in-tensorflow/
+
 How to Load Large Datasets From Directories for Deep Learning with Keras
 
 https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/
