@@ -1,5 +1,19 @@
+Faster Data Science Education
+https://www.kaggle.com/learn/overview
+
 Step by Step, A Tutorial on How to Feed Your Own Image Data to Tensorflow
 http://yeephycho.github.io/2016/08/15/image-data-in-tensorflow/
+
+
+Tensorflow tfrecord image input demo
+This project demonstrates:
+
+How to turn your own image/label to tfrecord format.
+How to read images/labels from the generated tfrecord file.
+How to feed the images/labels to your own neural network.
+Key word: tensorflow, input image, input label, input tfrecord
+https://github.com/yeephycho/tensorflow_input_image_by_tfrecord
+
 
 How to Load Large Datasets From Directories for Deep Learning with Keras
 
