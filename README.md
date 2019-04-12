@@ -4,6 +4,9 @@ https://www.kaggle.com/learn/overview
 Step by Step, A Tutorial on How to Feed Your Own Image Data to Tensorflow
 http://yeephycho.github.io/2016/08/15/image-data-in-tensorflow/
 
+Importing Data
+https://www.tensorflow.org/guide/datasets
+
 
 Tensorflow tfrecord image input demo
 This project demonstrates:
