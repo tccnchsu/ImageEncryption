@@ -23,6 +23,17 @@ Lesson 02: Preparing Image Data
 https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-computer-vision-7-day-mini-course/
 
 
+Reading custom file and record formats | TensorFlow Core ...
+https://www.tensorflow.org/guide/extend/formats
+Dataset to read raw records (which are typically represented by scalar string tensors, but can have more structure) from a file. Record formats: We use decoder ...
+Using TFRecords and tf.Example | TensorFlow Core | TensorFlow
+https://www.tensorflow.org/tutorials/load_data/tf_records
+The TFRecord format is a simple format for storing a sequence of binary records. Protocol buffers are a cross-platform, cross-language library for efficient ...
+Importing Data | TensorFlow Core | TensorFlow
+https://www.tensorflow.org/guide/datasets
+For example, the TFRecord file format is a simple record-oriented binary format that many TensorFlow applications use for training data. The tf.data.
+
+
 # ImageEncryption
 Image encryption
 
